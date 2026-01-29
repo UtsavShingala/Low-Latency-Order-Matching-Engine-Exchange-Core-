@@ -118,14 +118,6 @@ This behavior closely mirrors real exchange execution logic.
 
 ---
 
-## 🧑‍💻 Author
-
-**Utsav Shingala**  
-B.Tech Computer Science  
-Interests: Trading Systems, Quantitative Finance, Backend Infrastructure
-
----
-
 ## 📌 Disclaimer
 
 This project is for **educational and demonstrative purposes only** and is not intended for production trading or financial use.
