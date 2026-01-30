@@ -1,6 +1,6 @@
 # REG_NMS_Matching_Engine
 
-A high-performance, low-latency cryptocurrency matching engine inspired by **REG NMS principles** and real-world centralized exchanges such as Binance and Coinbase.
+A high-performance, low-latency matching engine inspired by **REG NMS principles** and real-world centralized exchanges.
 
 This project focuses on building the **core exchange matching engine**, emphasizing **fair price–time priority execution**, real-time trade streaming, and exchange-grade system design.
 
